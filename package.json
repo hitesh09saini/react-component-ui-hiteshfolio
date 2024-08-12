@@ -1,0 +1,26 @@
+{
+  "name": "react-components-ui-hiteshfolio",
+  "version": "1.0.0",
+  "description": "an npm react talilwindcss component package that provide responsive and modern component",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hitesh09saini/react-component-ui-hiteshfolio.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Hitesh Kumar Saini",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hitesh09saini/react-component-ui-hiteshfolio/issues"
+  },
+  "homepage": "https://github.com/hitesh09saini/react-component-ui-hiteshfolio#readme",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
