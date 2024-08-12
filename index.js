@@ -1,4 +1,4 @@
 
 export default function Hello(){
-    return "Hello World"
+    return <h1>Hello</h1>
 }
