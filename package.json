@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/hitesh09saini/react-component-ui-hiteshfolio/issues"
   },
-  "homepage": "https://github.com/hitesh09saini/react-component-ui-hiteshfolio#readme"
+  "homepage": "https://github.com/hitesh09saini/react-component-ui-hiteshfolio#readme",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
 }
